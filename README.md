@@ -2,7 +2,7 @@
 
 ## Questão 1: 
 
-Utilizar **getters e setters** é uma boa prática em programação orientada a objetos porque promove o **encapsulamento**, um dos pilares fundamentais da POO.
+Utilizar getters e setters é uma boa prática em programação orientada a objetos porque promove o encapsulamento, um dos pilares fundamentais da POO.
 
 ### 🔒 Vantagens:
 - **Encapsulamento:** Oculta os atributos internos, expondo somente o necessário.
