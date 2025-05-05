@@ -1,16 +1,16 @@
-# 📘 Lista de Exercícios 02 — Programação Orientada a Objetos
+# Lista de Exercícios 02 — Programação Orientada a Objetos
 
 ## Questão 1: 
 
 Utilizar getters e setters é uma boa prática em programação orientada a objetos porque promove o encapsulamento, um dos pilares fundamentais da POO.
 
-### 🔒 Vantagens:
+### Vantagens:
 - **Encapsulamento:** Oculta os atributos internos, expondo somente o necessário.
 - **Validação:** Permite validar dados antes de alterar o estado de um objeto.
 - **Manutenção:** Facilita futuras alterações sem impactar o código que usa a classe.
 - **Segurança:** Garante consistência e integridade dos dados.
 
-### 📌 Exemplo em Java:
+### Exemplo em Java:
 ```java
 public class Pessoa {
     private int idade;
@@ -28,7 +28,7 @@ public class Pessoa {
 ```
 Se o atributo Idade fosse public, qualquer parte do sistema poderia colocar uma idade inválida. Com os métodos get e set, dá para controlar como os dados são usados, protegendo o objeto contra erros.
 
-# 📚 Questão 2:
+# Questão 2:
 
 ## a) Quais informações são relevantes para representar um livro?
 
